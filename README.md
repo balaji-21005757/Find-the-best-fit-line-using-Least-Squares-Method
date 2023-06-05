@@ -61,7 +61,7 @@ print("y value when x is 3= ",y_value)
 <br></br>
 <br></br>
 ## Output:
-![best fit line](1.png)
+![image](https://github.com/balaji-21005757/Find-the-best-fit-line-using-Least-Squares-Method/assets/94372294/4ac92a68-25ed-4709-b0f3-017f94f5abbc)
 
 
 ## Result:
